@@ -8,7 +8,7 @@
 using namespace  std;
 #include <string>
 #include <vector>
-#include "../HashTable/HashTable.h"
+#include "HashTable.h"
 
 
 class SymbolTable {
